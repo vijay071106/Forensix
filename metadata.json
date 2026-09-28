@@ -1,0 +1,6 @@
+{
+  "name": "CCTV FORENSIX",
+  "description": "Digital CCTV Evidence Acquisition, Recovery & Analysis - Digital forensics workstation for CCTV/DVR/NVR evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
